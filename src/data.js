@@ -50,7 +50,7 @@ export const tours = [
     id: 2,
     image: tour2,
     tourDate: "august 26th, 2020",
-    tourTitle: "Tibet Adventure",
+    tourTitle: "best of java",
     tourInfo:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
     duration: 6,
@@ -61,7 +61,7 @@ export const tours = [
     id: 3,
     image: tour3,
     tourDate: "august 26th, 2020",
-    tourTitle: "Tibet Adventure",
+    tourTitle: "explore hong kong",
     tourInfo:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
     duration: 6,
@@ -72,7 +72,7 @@ export const tours = [
     id: 4,
     image: tour4,
     tourDate: "august 26th, 2020",
-    tourTitle: "Tibet Adventure",
+    tourTitle: "kenya highlights",
     tourInfo:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
     duration: 6,
